@@ -5,6 +5,6 @@ Tweaked from others' work. Didnt do anything from scratch :)
 
 References:-
 
-[Card glow](https://codepen.io/lincohn/pen/JjPZgXw)
+1. [Card glow](https://codepen.io/lincohn/pen/JjPZgXw)
 
-[Border glow](https://plantpot.works/1250)
+2. [Border glow](https://plantpot.works/1250)
